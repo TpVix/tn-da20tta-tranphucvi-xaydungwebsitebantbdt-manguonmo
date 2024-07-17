@@ -14,8 +14,7 @@ Dự án này nhằm phát triển một website bán thiết bị tin học v�
 - Phân quyền quản trị hệ thống
 - Đề xuất sản phẩm thường được mua kèm
 - Đề xuất sản phẩm trong khi tìm kiếm
-- Hệ thống hỗ trợ thông minh (Chatbot AI)
-- Chat trực tiếp với nhân viên
+- Gợi ý sản phẩm với lọc cộng tác
 
 ## Kiến Trúc
 Dự án sử dụng Laravel Framework. Các thành phần chính của hệ thống bao gồm:
@@ -38,7 +37,7 @@ Dự án sử dụng Laravel Framework. Các thành phần chính của hệ th�
 
 2. **Tải dự án từ GitHub**:
     ```sh
-    https://github.com/NgoTanLoi01/tn-da20tta-110120166-ngotanloi-phattrienwebsitebtbth.git
+    https://github.com/TpVix/tn-da20tta-tranphucvi-xaydungwebsitebantbdt-manguonmo.git
     ```
 
 3. **Thiết lập dự án**:
@@ -74,3 +73,4 @@ Dự án sử dụng Laravel Framework. Các thành phần chính của hệ th�
     ```
 
 ## Thông Tin Liên Hệ Tác Giả
+Email: vitran641@gmail.com
